@@ -1,0 +1,5 @@
+server:
+  port: 3000
+sample:
+  prop:
+    title: "Título app 02"
